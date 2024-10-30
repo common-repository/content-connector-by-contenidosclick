@@ -1,0 +1,55 @@
+.cc-back {
+  margin-left: -20px;
+  margin-right: 0px;
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+  min-height: 750px;
+}
+.cc-back-inner {
+  margin-left: -20px;
+  background-color: rgba(29,112,182, 0.45);
+  position: absolute;
+  width: 100.5%;
+  min-height: 750px;
+}
+.cc-form-container {
+  padding-top: 150px;
+}
+.cc-shadow {
+  -webkit-box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+}
+.cc-shadow-alt {
+  -webkit-box-shadow: 3px 5px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 3px 5px 5px 0px rgba(0,0,0,0.75);
+}
+.cc-form-box-container {
+
+}
+.cc-form-box {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+.cc-blue-bg {
+  background-color: rgba(29,112,182, 1);
+}
+.cc-white-bg {
+  background-color: rgba(255, 255, 255, 1);
+}
+.form-row {
+  margin-top: 10px;
+}
+.cc-btn {
+  background-color: #ee8d26;
+  border-color: #ee8d26;
+}

@@ -1,0 +1,89 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Connector\n"
+"POT-Creation-Date: 2020-01-30 15:40+0530\n"
+"PO-Revision-Date: 2020-01-09 11:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: content-connector.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: lib/connect.php:26
+msgid "La conexión se ha realizado correctamente."
+msgstr ""
+
+#: lib/connect.php:31
+msgid ""
+"Ocurrió un error en la conexión, verifique los parámetros. Si el error "
+"continúa, contacte a ContenidosClick"
+msgstr ""
+
+#: src/install.php:38
+msgid "The Plugin can't be activated because your PHP version"
+msgstr ""
+
+#: src/install.php:39
+msgid "is less than required "
+msgstr ""
+
+#: src/settings.php:21 src/settings.php:22
+msgid "Content Conector"
+msgstr ""
+
+#: src/settings.php:61
+msgid "Nueva conexión"
+msgstr ""
+
+#: src/settings.php:72
+msgid "Clave"
+msgstr ""
+
+#: src/settings.php:75
+msgid "Blog ID"
+msgstr ""
+
+#: src/settings.php:79
+msgid "Seleccione un autor"
+msgstr ""
+
+#: src/settings.php:90
+msgid "Nombre del blog"
+msgstr ""
+
+#: src/settings.php:94
+msgid "Conectar"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Content Conector by ContenidosClick"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "www.contenidosclick.es"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Conecta la plataforma de Contenidos Click con el blog del cliente, "
+"facilitando la publicación o puesta en borrador de los contenidos "
+"realizados. Nota: Solo funciona siendo cliente activo de Contenidos Click."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ContenidosClick"
+msgstr ""
